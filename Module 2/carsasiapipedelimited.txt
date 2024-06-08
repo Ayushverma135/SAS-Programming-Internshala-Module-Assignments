@@ -1,0 +1,158 @@
+Acura| MDX|SUV|Asia|36945
+Acura| RSX Type S 2dr|Sedan|Asia|23820
+Acura| TSX 4dr|Sedan|Asia|26990
+Acura| TL 4dr|Sedan|Asia|33195
+Acura| 3.5 RL 4dr|Sedan|Asia|43755
+Acura| 3.5 RL w/Navigation 4dr|Sedan|Asia|46100
+Acura| NSX coupe 2dr manual S|Sports|Asia|89765
+Honda| Civic Hybrid 4dr manual (gas/electric)|Hybrid|Asia|20140
+Honda| Insight 2dr (gas/electric)|Hybrid|Asia|19110
+Honda| Pilot LX|SUV|Asia|27560
+Honda| CR-V LX|SUV|Asia|19860
+Honda| Element LX|SUV|Asia|18690
+Honda| Civic DX 2dr|Sedan|Asia|13270
+Honda| Civic HX 2dr|Sedan|Asia|14170
+Honda| Civic LX 4dr|Sedan|Asia|15850
+Honda| Accord LX 2dr|Sedan|Asia|19860
+Honda| Accord EX 2dr|Sedan|Asia|22260
+Honda| Civic EX 4dr|Sedan|Asia|17750
+Honda| Civic Si 2dr hatch|Sedan|Asia|19490
+Honda| Accord LX V6 4dr|Sedan|Asia|23760
+Honda| Accord EX V6 2dr|Sedan|Asia|26960
+Honda| Odyssey LX|Sedan|Asia|24950
+Honda| Odyssey EX|Sedan|Asia|27450
+Honda| S2000 convertible 2dr|Sports|Asia|33260
+Hyundai| Santa Fe GLS|SUV|Asia|21589
+Hyundai| Accent 2dr hatch|Sedan|Asia|10539
+Hyundai| Accent GL 4dr|Sedan|Asia|11839
+Hyundai| Accent GT 2dr hatch|Sedan|Asia|11939
+Hyundai| Elantra GLS 4dr|Sedan|Asia|13839
+Hyundai| Elantra GT 4dr|Sedan|Asia|15389
+Hyundai| Elantra GT 4dr hatch|Sedan|Asia|15389
+Hyundai| Sonata GLS 4dr|Sedan|Asia|19339
+Hyundai| Sonata LX 4dr|Sedan|Asia|20339
+Hyundai| XG350 4dr|Sedan|Asia|24589
+Hyundai| XG350 L 4dr|Sedan|Asia|26189
+Hyundai| Tiburon GT V6 2dr|Sports|Asia|18739
+Infiniti| G35 4dr|Sedan|Asia|28495
+Infiniti| G35 Sport Coupe 2dr|Sedan|Asia|29795
+Infiniti| G35 4dr|Sedan|Asia|32445
+Infiniti| I35 4dr|Sedan|Asia|31145
+Infiniti| M45 4dr|Sedan|Asia|42845
+Infiniti| Q45 Luxury 4dr|Sedan|Asia|52545
+Infiniti| FX35|Wagon|Asia|34895
+Infiniti| FX45|Wagon|Asia|36395
+Isuzu| Ascender S|SUV|Asia|31849
+Isuzu| Rodeo S|SUV|Asia|20449
+Kia| Sorento LX|SUV|Asia|19635
+Kia| Optima LX 4dr|Sedan|Asia|16040
+Kia| Rio 4dr manual|Sedan|Asia|10280
+Kia| Rio 4dr auto|Sedan|Asia|11155
+Kia| Spectra 4dr|Sedan|Asia|12360
+Kia| Spectra GS 4dr hatch|Sedan|Asia|13580
+Kia| Spectra GSX 4dr hatch|Sedan|Asia|14630
+Kia| Optima LX V6 4dr|Sedan|Asia|18435
+Kia| Amanti 4dr|Sedan|Asia|26000
+Kia| Sedona LX|Sedan|Asia|20615
+Kia| Rio Cinco|Wagon|Asia|11905
+Lexus| GX 470|SUV|Asia|45700
+Lexus| LX 470|SUV|Asia|64800
+Lexus| RX 330|SUV|Asia|39195
+Lexus| ES 330 4dr|Sedan|Asia|32350
+Lexus| IS 300 4dr manual|Sedan|Asia|31045
+Lexus| IS 300 4dr auto|Sedan|Asia|32415
+Lexus| GS 300 4dr|Sedan|Asia|41010
+Lexus| GS 430 4dr|Sedan|Asia|48450
+Lexus| LS 430 4dr|Sedan|Asia|55750
+Lexus| SC 430 convertible 2dr|Sports|Asia|63200
+Lexus| IS 300 SportCross|Wagon|Asia|32455
+Mazda| Tribute DX 2.0|SUV|Asia|21087
+Mazda| Mazda3 i 4dr|Sedan|Asia|15500
+Mazda| Mazda3 s 4dr|Sedan|Asia|17200
+Mazda| Mazda6 i 4dr|Sedan|Asia|19270
+Mazda| MPV ES|Sedan|Asia|28750
+Mazda| MX-5 Miata convertible 2dr|Sports|Asia|22388
+Mazda| MX-5 Miata LS convertible 2dr|Sports|Asia|25193
+Mazda| RX-8 4dr automatic|Sports|Asia|25700
+Mazda| RX-8 4dr manual|Sports|Asia|27200
+Mazda| B2300 SX Regular Cab|Truck|Asia|14840
+Mazda| B4000 SE Cab Plus|Truck|Asia|22350
+Mitsubishi| Endeavor XLS|SUV|Asia|30492
+Mitsubishi| Montero XLS|SUV|Asia|33112
+Mitsubishi| Outlander LS|SUV|Asia|18892
+Mitsubishi| Lancer ES 4dr|Sedan|Asia|14622
+Mitsubishi| Lancer LS 4dr|Sedan|Asia|16722
+Mitsubishi| Galant ES 2.4L 4dr|Sedan|Asia|19312
+Mitsubishi| Lancer OZ Rally 4dr auto|Sedan|Asia|17232
+Mitsubishi| Diamante LS 4dr|Sedan|Asia|29282
+Mitsubishi| Galant GTS 4dr|Sedan|Asia|25700
+Mitsubishi| Eclipse GTS 2dr|Sports|Asia|25092
+Mitsubishi| Eclipse Spyder GT convertible 2dr|Sports|Asia|26992
+Mitsubishi| Lancer Evolution 4dr|Sports|Asia|29562
+Mitsubishi| Lancer Sportback LS|Wagon|Asia|17495
+Nissan| Pathfinder Armada SE|SUV|Asia|33840
+Nissan| Pathfinder SE|SUV|Asia|27339
+Nissan| Xterra XE V6|SUV|Asia|20939
+Nissan| Sentra 1.8 4dr|Sedan|Asia|12740
+Nissan| Sentra 1.8 S 4dr|Sedan|Asia|14740
+Nissan| Altima S 4dr|Sedan|Asia|19240
+Nissan| Sentra SE-R 4dr|Sedan|Asia|17640
+Nissan| Altima SE 4dr|Sedan|Asia|23290
+Nissan| Maxima SE 4dr|Sedan|Asia|27490
+Nissan| Maxima SL 4dr|Sedan|Asia|29440
+Nissan| Quest S|Sedan|Asia|24780
+Nissan| Quest SE|Sedan|Asia|32780
+Nissan| 350Z coupe 2dr|Sports|Asia|26910
+Nissan| 350Z Enthusiast convertible 2dr|Sports|Asia|34390
+Nissan| Frontier King Cab XE V6|Truck|Asia|19479
+Nissan| Titan King Cab XE|Truck|Asia|26650
+Nissan| Murano SL|Wagon|Asia|28739
+Scion| xA 4dr hatch|Sedan|Asia|12965
+Scion| xB|Wagon|Asia|14165
+Subaru| Impreza 2.5 RS 4dr|Sedan|Asia|19945
+Subaru| Legacy L 4dr|Sedan|Asia|20445
+Subaru| Legacy GT 4dr|Sedan|Asia|25645
+Subaru| Outback Limited Sedan 4dr|Sedan|Asia|27145
+Subaru| Outback H6 4dr|Sedan|Asia|29345
+Subaru| Outback H-6 VDC 4dr|Sedan|Asia|31545
+Subaru| Impreza WRX 4dr|Sports|Asia|25045
+Subaru| Impreza WRX STi 4dr|Sports|Asia|31545
+Subaru| Baja|Truck|Asia|24520
+Subaru| Forester X|Wagon|Asia|21445
+Subaru| Outback|Wagon|Asia|23895
+Suzuki| XL-7 EX|SUV|Asia|23699
+Suzuki| Vitara LX|SUV|Asia|17163
+Suzuki| Aeno S 4dr|Sedan|Asia|12884
+Suzuki| Aerio LX 4dr|Sedan|Asia|14500
+Suzuki| Forenza S 4dr|Sedan|Asia|12269
+Suzuki| Forenza EX 4dr|Sedan|Asia|15568
+Suzuki| Verona LX 4dr|Sedan|Asia|17262
+Suzuki| Aerio SX|Wagon|Asia|16497
+Toyota| Prius 4dr (gas/electric)|Hybrid|Asia|20510
+Toyota| Sequoia SR5|SUV|Asia|35695
+Toyota| 4Runner SR5 V6|SUV|Asia|27710
+Toyota| Highlander V6|SUV|Asia|27930
+Toyota| Land Cruiser|SUV|Asia|54765
+Toyota| RAV4|SUV|Asia|20290
+Toyota| Corolla CE 4dr|Sedan|Asia|14085
+Toyota| Corolla S 4dr|Sedan|Asia|15030
+Toyota| Corolla LE 4dr|Sedan|Asia|15295
+Toyota| Echo 2dr manual|Sedan|Asia|10760
+Toyota| Echo 2dr auto|Sedan|Asia|11560
+Toyota| Echo 4dr|Sedan|Asia|11290
+Toyota| Camry LE 4dr|Sedan|Asia|19560
+Toyota| Camry LE V6 4dr|Sedan|Asia|22775
+Toyota| Camry Solara SE 2dr|Sedan|Asia|19635
+Toyota| Camry Solara SE V6 2dr|Sedan|Asia|21965
+Toyota| Avalon XL 4dr|Sedan|Asia|26560
+Toyota| Camry XLE V6 4dr|Sedan|Asia|25920
+Toyota| Camry Solara SLE V6 2dr|Sedan|Asia|26510
+Toyota| Avalon XLS 4dr|Sedan|Asia|30920
+Toyota| Sienna CE|Sedan|Asia|23495
+Toyota| Sienna XLE Limited|Sedan|Asia|28800
+Toyota| Celica GT-S 2dr|Sports|Asia|22570
+Toyota| MR2 Spyder convertible 2dr|Sports|Asia|25130
+Toyota| Tacoma|Truck|Asia|12800
+Toyota| Tundra Regular Cab V6|Truck|Asia|16495
+Toyota| Tundra Access Cab V6 SR5|Truck|Asia|25935
+Toyota| Matrix XR|Wagon|Asia|16695
